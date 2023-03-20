@@ -21,7 +21,6 @@ public class MainGraphView implements ViewHall {
 
 		Object selected = JOptionPane.showInputDialog(null, "Menu", "Selection", JOptionPane.DEFAULT_OPTION, null, values, "0");
 		if ( selected != null ){//null if the user cancels. 
-		    String selectedString = selected.toString();
 		    //do something
 		}else{
 		    JOptionPane.showMessageDialog(null,  "User cancelled");
