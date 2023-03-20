@@ -1,20 +1,16 @@
 # monty-hall
 Monty Hall Problem
 
+<div>
+<a href = "https://meiobit.com/arquivo/96931paradoxo-de-monty-hallou-voc-no-entende-game-shows-quer-entender-o-universo">
+Paradoxo de Monty Hall–ou: Você não entende Game Shows, quer entender o Universo?
+</a>
 
-A dinâmica é bem simples. O apresentador pede para você escolher uma das três portas. Ele sabe de antemão atrás de qual está o prêmio. Você escolhe a porta 1, sabendo que tem 1/3 de chances de acertar. O apresentador te instiga, pergunta se quer mudar de porta. Ele abre a porta 3, não há prêmio.
-
-A tensão aumenta, sua última chance, fica com a porta 1 ou vai para a porta 2. Bem, são só duas portas, 50% de chance de estar em cada uma, qual a vantagem de mudar? Você fica, e ganha ou não.
-
-Só que não 50% das vezes.
-
-COMO ASSIM, BIAL?
+Um apresentador pede para você escolher uma das três portas. Ele sabe de antemão atrás de qual está o prêmio. Você escolhe a porta 1, sabendo que tem 1/3 de chances de acertar. Ele abre a porta 3 e revela que não há prêmio atrás dessa porta. Agora o apresentador pergunta se quer mudar de porta, "ficar com a porta 1 ou vai para a porta 2". Bem, são só duas portas, 50% de chance de estar em cada uma, qual a vantagem de mudar? Você fica, e ganha ou não.
 
 O Paradoxo de Monty Hall tem esse nome em homenagem a um apresentador popular da Game Shows nos EUA, e foi proposto pela primeira vez em 1975, mas se tornou popular em 1990, quando Marilyn Vos Savant publicou uma coluna na revista Parade sobre ele.
 
 Literalmente milhares de leitores, muitos matemáticos e PHDs escreveram reclamando que o Paradoxo estava errado, que não fazia sentido você ter duas portas e os resultados entre elas não ficarem em exatos 50%.
-
-Realmente vendo assim não faz sentido, mas como o Leo Jaime diz, o Universo não te deve tapete vermelho, e –acrescento eu- muito menos explicação. O Cosmos não tem obrigação de fazer sentido pra você, seu macaco pelado fruto de uma instabilidade entrópica!
 
 Vejamos com outros olhos o problema:
 
@@ -26,9 +22,17 @@ Quando o apresentador perguntar, você muda de porta e DOBRA suas chances.
 
 Contra-intuitivo, né? O bastante para um monte de gente inteligente demorar pra aceitar a explicação. Até os Mythbusters fizeram um segmento onde determinam se realmente é vantajoso mudar de porta.
 
- 
 Spoiler: Sim, é absurdamente vantajoso.
-
+</div>
+<br>
+<br>
+<br>
+<br>
+<div>
+<p>
+<a href = "https://www.onacional.com.br/opiniao,47/2022/05/13/o-dilema-de-monty-hall-e-a-estup,122120">
+O dilema de Monty Hall e a estupidez humana
+</a>
 
 O dilema (também referenciado como desafio, problema ou paradoxo) de Monty Hall, especialmente depois do episódio que envolveu Marilyn vos Savant, se presta para ilustrar tanto as nossas falhas de cognição para lidar com a matemática das probabilidades quanto para mostrar que preconceitos e arrogância machista podem levar pessoas, supostamente inteligentes e bem-tituladas, a protagonizar papeis ridículos.
 
@@ -47,9 +51,30 @@ Houve também a dúvida se Marilyn vos Savant foi original ou conhecia a respost
 
 A maioria das pessoas, para se poupar de frustração, tende a manter a escolha inicial. Mas, deveria trocar. As chances de ganhar o carro dobram, no caso de troca: saem de 1/3 (inicial) para 2/3 (depois da troca). Isso não significa que ganharão sempre que fizerem a troca. Mas ganharão mais vezes do que se não trocarem. Ao cabo, Marilyn venceu, os PhDs cederam e acataram a resposta dela. Inclusive, Paul Erdös, o famoso matemático húngaro, que, ao ser confrontado com a questão, em 1995, ficou irritado, dizendo que não fazia diferença trocar de porta, depois de analisar diversas simulações de Monte Carlo, reconheceu que a resposta de Marilyn era correta.
 
+</p>
+</div>
 
+<br>
+<br>
+<h1><a href = "https://www.youtube.com/watch?v=4Lb-6rxZxx0">
 Monty Hall Problem - Numberphile
-https://www.youtube.com/watch?v=4Lb-6rxZxx0
-
+</a>
+</h1>
+<iframe width="560" height="315"
+src="https://www.youtube.com/watch?v=4Lb-6rxZxx0" 
+frameborder="0" 
+allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+<br>
+<br>
+<h1><a href = "https://www.youtube.com/watch?v=nWYeCX4V5lM&t=258s">
 O PROBLEMA QUE A MAIORIA DAS PESSOAS RESPONDEM ERRADO | aprenda estatística com o Sérgio Mallandro
-https://www.youtube.com/watch?v=nWYeCX4V5lM&t=258s
+</a>
+</h1>
+<iframe width="560" height="315"
+src="https://www.youtube.com/watch?v=nWYeCX4V5lM&t=258s" 
+frameborder="0" 
+allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
+
