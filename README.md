@@ -56,25 +56,18 @@ A maioria das pessoas, para se poupar de frustração, tende a manter a escolha 
 
 <br>
 <br>
-<h1><a href = "https://www.youtube.com/watch?v=4Lb-6rxZxx0">
+<h2><a href = "https://www.youtube.com/watch?v=4Lb-6rxZxx0">
 Monty Hall Problem - Numberphile
 </a>
-</h1>
-<iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=4Lb-6rxZxx0" 
-frameborder="0" 
-allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+</h2>
+<img src="resource/numberphile.png" alt="Monty Hall Problem - Numberphile"/>
+
 <br>
 <br>
-<h1><a href = "https://www.youtube.com/watch?v=nWYeCX4V5lM&t=258s">
+<h2><a href = "https://www.youtube.com/watch?v=nWYeCX4V5lM&t=258s">
 O PROBLEMA QUE A MAIORIA DAS PESSOAS RESPONDEM ERRADO | aprenda estatística com o Sérgio Mallandro
 </a>
-</h1>
-<iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=nWYeCX4V5lM&t=258s" 
-frameborder="0" 
-allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+</h2>
+<img src="resource/o_fisico_turista.png" alt="O PROBLEMA QUE A MAIORIA DAS PESSOAS RESPONDEM ERRADO"/>
 
 
