@@ -71,3 +71,16 @@ O PROBLEMA QUE A MAIORIA DAS PESSOAS RESPONDEM ERRADO | aprenda estatística com
 <img src="resource/o_fisico_turista.png" alt="O PROBLEMA QUE A MAIORIA DAS PESSOAS RESPONDEM ERRADO"/>
 
 
+# Sobre o Código
+
+Para fazer a prova real, codifiquei para que o programa sempre trocasse a porta, independente de eu ter escolhido a porta certa inicialmente. 
+
+Os resultados confirmam o cálculo dos 66% de chances de ganhar ao trocarmos de porta.
+<p>10.000 Tentativas</p>
+<img src="resource/100000.png" alt="100.000"/>
+
+<p>100.000 Tentativas</p>
+<img src="resource/1000000.png" alt="100.000"/>
+
+<p>100.000.000 Tentativas</p>
+<img src="resource/100000000.png" alt="100.000.000"/>
